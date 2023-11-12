@@ -6,23 +6,23 @@ Welcome to the GitHub repository for AnnaSweet's digital ordering platform. This
 
 ## Technologies Used
 
-# Frontend
+### Frontend
 
 ReactJS: Utilized for building a dynamic and responsive user interface.
 TailwindCSS: Employed for designing elegant and adaptive UI components.
 HTML & JavaScript: Foundations for structuring and enabling interactive features.
 
-# Backend
+### Backend
 
 Spring Boot & Java: The core of our backend, offering a powerful framework for building application services.
 MySQL: Our choice for database management, ensuring efficient data storage and retrieval.
 
-# Hosting
+### Hosting
 
 Netlify: Hosts our frontend, providing fast and reliable access to users.
 AWS EC2: Powers our backend services, ensuring scalability and high availability.
 
-# Features
+### Features
 
 User Registration & Login: Secure and seamless user authentication process.
 Menu Browsing: Explore a curated selection of panna cotta desserts.
