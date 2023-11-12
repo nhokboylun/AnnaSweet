@@ -8,29 +8,29 @@ Welcome to the GitHub repository for AnnaSweet's digital ordering platform. This
 
 ### Frontend
 
-ReactJS: Utilized for building a dynamic and responsive user interface.
-TailwindCSS: Employed for designing elegant and adaptive UI components.
+ReactJS: Utilized for building a dynamic and responsive user interface.     
+TailwindCSS: Employed for designing elegant and adaptive UI components.     
 HTML & JavaScript: Foundations for structuring and enabling interactive features.
 
 ### Backend
 
-Spring Boot & Java: The core of our backend, offering a powerful framework for building application services.
+Spring Boot & Java: The core of our backend, offering a powerful framework for building application services.    
 MySQL: Our choice for database management, ensuring efficient data storage and retrieval.
 
 ### Hosting
 
-Netlify: Hosts our frontend, providing fast and reliable access to users.
+Netlify: Hosts our frontend, providing fast and reliable access to users.     
 AWS EC2: Powers our backend services, ensuring scalability and high availability.
 
 ### Features
 
-User Registration & Login: Secure and seamless user authentication process.
-Menu Browsing: Explore a curated selection of panna cotta desserts.
-Order Placement: Intuitive and hassle-free ordering system.
+User Registration & Login: Secure and seamless user authentication process.    
+Menu Browsing: Explore a curated selection of panna cotta desserts.     
+Order Placement: Intuitive and hassle-free ordering system.    
 
 ## Video Walkthrough
 
-<img src='https://github.com/nhokboylun/EtheriumSaga/blob/main/project7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nhokboylun/AnnaSweet/blob/main/annasweet_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## License
